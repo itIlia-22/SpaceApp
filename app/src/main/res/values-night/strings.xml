@@ -1,10 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">SpaceApp</string>
-    <string name="spaceapp">SpaceApp</string>
-    <string name="application_test">This is an educational application.
-        Here you can find out the cosmic day.
-        Also, there are articles about space (facts). And you can use Wikipedia.</string>
-<!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="find_in_wikipedia">Find in Wikipedia</string>
     <string name="today">Today</string>
@@ -43,8 +38,6 @@
         5. The first cosmonaut and the capsule in which he was landed separately. Technology has not yet allowed the ship to be equipped with a soft landing system, and Gagarin had to eject from a height of 7 km above the Earth\'s surface. The landing took place not at all on Baikonur, as planned, but as much as 1000 km to the west.\n\n</string>
     <string name="hanging_the_topic">Сhanging the topic</string>
     <string name="the_first_flight_into_space">The first flight into space</string>
-    <string name="textTen">Ten interesting facts about the cosmos and the universe that you might not know:</string>
     <string name="press_the_button_twice">Press the button twice</string>
-
 
 </resources>

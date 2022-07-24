@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="EndMarginTop">48dp</dimen>
+    <dimen name="EndPaddingStart">24dp</dimen>
+    <dimen name="EndPaddingTop">8dp</dimen>
+    <dimen name="EndPaddingEnd">24dp</dimen>
+    <dimen name="EndSize">50sp</dimen>
+    <dimen name="StartMarginTop">48dp</dimen>
+    <dimen name="StartPaddingStart">24dp</dimen>
+    <dimen name="StartPaddingTop">8dp</dimen>
+    <dimen name="StartPaddingEnd">24dp</dimen>
+    <dimen name="StartSize">50sp</dimen>
+    <dimen name="FDMargin">10dp</dimen>
+    <dimen name="FDheight">300dp</dimen>
+    <dimen name="FDpaddingStart">10dp</dimen>
+    <dimen name="FDpaddingEnd">10dp</dimen>
+    <dimen name="FDmarginTop">5dp</dimen>
+</resources>
